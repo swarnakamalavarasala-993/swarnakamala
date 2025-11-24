@@ -2,9 +2,10 @@
 #include<string.h>
 int main()
 {
-	char name[20]={"mungamurivinaykumar\0"};
+	char name[20]={"varasalaswarna\0"};
 	int len;
 	len=strlen(name);
 	printf("length=%d",len);
 	return 0;
 }
+
